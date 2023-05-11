@@ -157,14 +157,14 @@ footer{
     width: 100%;
  }
 
-/* main > p{
+main > p{
     background: red;
  }
 
  img + p{
     background: yellow;
  }
-
+/*
  img ~ p{
     background: green;
  }
@@ -175,7 +175,7 @@ footer{
 
  section > p + h2{
     background: pink;
- }*/
+ } comentareado hasta aqui*/
 
  .principal{
     padding: 3em 0;
